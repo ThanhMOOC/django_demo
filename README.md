@@ -1,7 +1,7 @@
 # django_demo #
 ##############
 
-# create django project CV
+create django project CV
 django-admin startproject CV
-# run manage.py to start server
+run manage.py to start server
 
